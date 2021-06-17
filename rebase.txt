@@ -1,0 +1,2 @@
+Dies ein File der erst geadded und dann commited wird.
+der Commit wird dann über git rebase rückgänig gemacht
